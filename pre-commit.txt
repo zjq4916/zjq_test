@@ -1,2 +1,0 @@
-#!/bin/sh
-touch /tmp/pwned_without_exec_node
